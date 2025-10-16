@@ -6,12 +6,12 @@
 html {
 	/*This section is template from Css-Tricks.com*/
 	/*background: url(images/background.jpg) no-repeat center center fixed; */
-	background-color: black;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 	/*Section ends*/
+	background-color: black;
 }
 
 .header {
