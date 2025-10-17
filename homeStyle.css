@@ -60,6 +60,8 @@ html {
 	margin-top:200px;
 	padding:10px;
 	background-color: #16476A;
+	align-items: center;
+	justify-content: center;
 }
 
 .profile {
@@ -81,7 +83,7 @@ html {
 	width:40%;
 	text-align:center;
 	color:white;
-	float: center;
+	align: center;
 }
 
 .contact {
