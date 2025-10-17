@@ -53,7 +53,7 @@ html {
 	font-weight:100;
 	margin-top:150px;
 	background-color: #16476A;
-	height: 200px
+	height: 300px
 }
 
 .content {
@@ -73,7 +73,6 @@ html {
 }
 
 .project {
-	height:50px;
 	border-radius:10%;
 	display: block;
 	margin-left: auto;
@@ -95,12 +94,12 @@ html {
 
 .media {
 	width:250;
-	margin-top:50%;
+	/*margin-top:50%;
 }
 
 .linked {
 	height:50px;
 	float:right;
 	padding:7px;
-	width:50;
+	width:50px;
 }
