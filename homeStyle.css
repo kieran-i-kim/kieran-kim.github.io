@@ -62,10 +62,10 @@ html {
 
 .column {
 	float: left;
-  	width: 50%;
+  	width: 30%;
 }
 
-.row:after {
+.content:after {
   	content: "";
 	display: table;
   	clear: both;
