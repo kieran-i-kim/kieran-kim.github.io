@@ -67,18 +67,18 @@ html {
 }
 
 .bio {
-	width:98%;
+	width:30%;
 	text-align:center;
 	color:white;
 }
 
-.profile {
-	height:200px;
+.project {
+	height:50px;
 	border-radius:10%;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 230px;
+	margin-top: 50px;
 }
 
 .media {
