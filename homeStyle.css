@@ -65,6 +65,11 @@ html {
   	width: 50%;
 }
 
+.row:after {
+  	content: "";
+	display: table;
+  	clear: both;
+}
 
 .name {
 	text-align:center;
