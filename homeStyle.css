@@ -87,8 +87,13 @@ html {
 }
 
 .linked {
-	height:50px;
-	float:right;
-	padding:7px;
-	width:250;
+	/*height:50px;*/
+	/*float:right;*/
+	/*padding:7px;*/
+	/*width:250;*/
+	
+    position:fixed;
+    right:10px;
+    bottom: 10px 
+	padding:10px;
 }
