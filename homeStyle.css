@@ -57,41 +57,30 @@ html {
 }
 
 .content {
-	margin-top:50px;
+	margin-top:200px;
 	padding:10px;
 }
 
-.column {
-	float: left;
-  	width: 33.33%;
-}
-
-.content:after {
-  	content: "";
-	display: table;
-  	clear: both;
-}
-
-.project {
-	border-radius:10%;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 50px;
-	width: 250px;
-}
-
-.projectTitle {
+.name {
 	text-align:center;
 	color:white;
 	font-weight: 400;
 }
 
-.projectBio {
+.bio {
+	width:98%;
 	text-align:center;
-	color:#F78D60;
+	color:white;
 }
 
+.profile {
+	height:200px;
+	border-radius:50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 230px;
+}
 .media {
 	width:250;
 	/*margin-top:50%;*/
