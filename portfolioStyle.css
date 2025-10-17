@@ -57,9 +57,10 @@ html {
 }
 
 .content {
-	width: 85%;
+	width: 75%;
 	margin-top:50px;
 	padding:10px;
+	float: center;
 }
 
 .column {

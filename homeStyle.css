@@ -51,7 +51,7 @@ html {
 	font-size: 100px;
 	text-align:center;
 	font-weight:100;
-	margin-top:150px;
+	margin-top:80px;
 	background-color: #16476A;
 	height: 300px
 }
@@ -62,6 +62,15 @@ html {
 	background-color: #16476A;
 }
 
+.profile {
+	height:200px;
+	border-radius:10%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 230px;
+
+}
 .name {
 	text-align:center;
 	color:white;
@@ -72,19 +81,17 @@ html {
 	width:40%;
 	text-align:center;
 	color:white;
+	float: center;
 }
 
-.profile {
-	height:200px;
-	border-radius:50%;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 230px;
-}
 .contact {
 	width:250;
 	/*margin-top:50%;*/
+}
+
+.contactText {
+	text-align: center;
+	color: white;
 }
 
 .linked {
