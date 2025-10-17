@@ -53,6 +53,7 @@ html {
 	font-weight:100;
 	margin-top:150px;
 	background-color: #16476A;
+	height: 200px
 }
 
 .content {
@@ -78,7 +79,7 @@ html {
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 50px;
-	width: 100px;
+	width: 250px;
 }
 
 .projectTitle {
@@ -89,7 +90,7 @@ html {
 
 .projectBio {
 	text-align:center;
-	color:#BF092F;
+	color:#F78D60;
 }
 
 .media {
