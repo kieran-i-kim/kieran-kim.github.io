@@ -83,7 +83,7 @@ html {
 	width:40%;
 	text-align:center;
 	color:white;
-	align: center;
+	justify-self: center;
 }
 
 .contact {
