@@ -58,6 +58,7 @@ html {
 
 .content {
 	width: 75%;
+	margin:auto;
 	margin-top:50px;
 	padding:10px;
 	float: center;
