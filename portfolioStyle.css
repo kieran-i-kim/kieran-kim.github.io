@@ -98,6 +98,11 @@ html {
 	/*margin-top:50%;*/
 }
 
+.contactText {
+	text-align: center;
+	color: white;
+}
+
 .linked {
 	height:50px;
 	float:center;
