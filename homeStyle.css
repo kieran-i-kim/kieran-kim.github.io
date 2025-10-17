@@ -60,6 +60,12 @@ html {
 	padding:10px;
 }
 
+.column {
+	float: left;
+  	width: 50%;
+}
+
+
 .name {
 	text-align:center;
 	color:white;
