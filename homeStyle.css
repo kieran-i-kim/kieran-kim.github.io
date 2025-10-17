@@ -62,25 +62,13 @@ html {
 
 .column {
 	float: left;
-  	width: 30%;
+  	width: 33.33%;
 }
 
 .content:after {
   	content: "";
 	display: table;
   	clear: both;
-}
-
-.name {
-	text-align:center;
-	color:white;
-	font-weight: 400;
-}
-
-.bio {
-	width:30%;
-	text-align:center;
-	color:white;
 }
 
 .project {
@@ -90,6 +78,17 @@ html {
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 50px;
+}
+
+.projectTitle {
+	text-align:center;
+	color:white;
+	font-weight: 400;
+}
+
+.projectBio {
+	text-align:center;
+	color:white;
 }
 
 .media {
