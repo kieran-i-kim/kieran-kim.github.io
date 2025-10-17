@@ -57,6 +57,7 @@ html {
 }
 
 .content {
+	width: 85%;
 	margin-top:50px;
 	padding:10px;
 }
@@ -99,7 +100,7 @@ html {
 
 .linked {
 	height:50px;
-	float:right;
+	float:center;
 	padding:7px;
 	width:50px;
 }
